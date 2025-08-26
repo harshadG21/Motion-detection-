@@ -1,0 +1,8 @@
+Make sure you have the following installed:
+- Python 3.x
+- OpenCV (`cv2`)
+- Imutils
+
+Install dependencies with:
+```bash
+pip install opencv-python imutils
